@@ -1,6 +1,6 @@
 # Water Ripple
 
-## Animation of a water ripple effect over an selected image using Qt Widgets
+## Animation of a water ripple effect over a selectable image using Qt Widgets
 
 The idea and some of the code were copied from: http://agilerepose.weebly.com/water-ripple.html
 
